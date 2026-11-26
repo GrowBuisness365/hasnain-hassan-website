@@ -1,0 +1,17 @@
+<svg width="149" height="48" viewBox="0 0 149 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="HassanEngine">
+<title>HassanEngine</title>
+<g>
+<rect width="40" height="40" x="4" y="4" rx="11" fill="#EB2027"/>
+<path d="M14.6 15.4V32.6H18.2V25.9H25.8V32.6H29.4V15.4H25.8V22.4H18.2V15.4H14.6Z" fill="#FFFFFF"/>
+<path d="M20 11.2L24 8.2V14.2H20V11.2Z" fill="#FFFFFF" fill-opacity="0.75"/>
+</g>
+<g fill="#FFFFFF">
+<path d="M50.9 15.1V34.2H54.7V26.4H63.1V34.2H66.9V15.1H63.1V22.9H54.7V15.1H50.9Z"/>
+<path d="M78.6 15.1L70.3 25.3L78.8 34.2H84.3L73.9 24.6L83.4 15.1H78.6Z"/>
+<path d="M98.6 15.1H89.9V34.2H98.6V30.8H93.5V26.5H98V23.2H93.5V18.5H98.6V15.1Z"/>
+<path d="M114.4 15.1H105.7V34.2H114.4V30.8H109.3V26.5H113.8V23.2H109.3V18.5H114.4V15.1Z"/>
+<path d="M126.9 15.1H118.2V34.2H126.9V30.8H121.8V26.5H126.3V23.2H121.8V18.5H126.9V15.1Z"/>
+<path d="M143.5 15.1H134.8V34.2H137.6L141.6 20.4V34.2H143.5V15.1H141.4L136.7 29.4V15.1H143.5Z"/>
+</g>
+<rect x="50" y="36.4" width="93" height="2.4" rx="1.2" fill="#EB2027" fill-opacity="0.5"/>
+</svg>

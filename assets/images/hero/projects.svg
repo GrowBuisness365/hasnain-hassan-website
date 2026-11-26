@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" fill="none">
+  <circle cx="239" cy="181" r="155" stroke="#91acd0" stroke-opacity=".2"/><circle cx="239" cy="181" r="122" stroke="#91acd0" stroke-opacity=".12"/>
+  <rect x="83" y="64" width="314" height="236" rx="20" fill="#1a2b45" stroke="#91acd0" stroke-opacity=".45"/><rect x="83" y="64" width="314" height="36" rx="20" fill="#101a2b"/><path d="M83 82v18h314V82" fill="#101a2b"/><circle cx="103" cy="82" r="4" fill="#ff7775"/><circle cx="119" cy="82" r="4" fill="#72d3e6"/><circle cx="135" cy="82" r="4" fill="#8ca5c4"/>
+  <rect x="102" y="119" width="147" height="160" rx="11" fill="#101a2b"/><path d="M121 144h48m-48 18h82m-82 18h69m-69 18h89m-89 18h55" stroke="#93aac8" stroke-width="5" stroke-linecap="round"/><path d="m121 239 12 10-12 10m28 0h42" stroke="#ff7775" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="265" y="119" width="111" height="73" rx="12" fill="#223653"/><text x="282" y="145" fill="#adc1dc" font-family="Arial,sans-serif" font-size="10" font-weight="700">LATENCY</text><path d="M282 174h20l12-16 14 9 13-21 18 13" stroke="#71d0e4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="265" y="206" width="111" height="73" rx="12" fill="#223653"/><text x="282" y="231" fill="#adc1dc" font-family="Arial,sans-serif" font-size="10" font-weight="700">QUERIES</text><path d="M282 261h12v-13h12v7h12v-19h12v16h12v-9h18" stroke="#ff7775" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="374" cy="49" r="17" fill="#72d3e6" fill-opacity=".14"/><path d="m368 49 4 4 8-9" stroke="#72d3e6" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,26 @@
+Options -Indexes
+DirectoryIndex index.php
+ErrorDocument 404 /hasnainHassan/not-found.php
+
+# Local development admin password hash.
+# Set CMS_ADMIN_PASSWORD_HASH so the admin panel can verify logins.
+SetEnv CMS_ADMIN_PASSWORD_HASH "$2y$12$txINEWWBnQ65p3kfkSI1D.BAJmdG1wQi6/rNzK017yyvZrccrkuna"
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /hasnainHassan/
+
+    # Sitemap and robots: /sitemap.xml and /robots.txt
+RewriteRule ^sitemap\.xml$ xml-sitemap.php [L]
+
+    # Pretty extensionless URLs: /about -> /about.php
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME}\.php -f
+    RewriteRule ^(.+?)/?$ $1.php [L]
+
+    # Anything else is a 404
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)$ not-found.php [L]
+</IfModule>

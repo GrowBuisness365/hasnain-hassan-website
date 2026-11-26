@@ -1,0 +1,9 @@
+# Block direct web access to PHP includes. They may only be reached via
+# include() from a page in the project root.
+<IfModule mod_authz_core.c>
+    Require all denied
+</IfModule>
+<IfModule !mod_authz_core.c>
+    Order allow,deny
+    Deny from all
+</IfModule>

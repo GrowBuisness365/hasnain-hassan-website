@@ -1,0 +1,31 @@
+﻿<svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="HassanEngine">
+<title>HassanEngine</title>
+<defs>
+<linearGradient id="logoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#EB2027"/>
+<stop offset="100%" stop-color="#FF5A36"/>
+</linearGradient>
+<linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#FFFFFF"/>
+<stop offset="100%" stop-color="#FF5A36"/>
+</linearGradient>
+<filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+<feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.3"/>
+</filter>
+</defs>
+<g filter="url(#shadow)">
+<rect x="4" y="4" width="48" height="48" rx="13" fill="url(#logoGrad)"/>
+<path d="M16 18V34H22V26H30V34H36V18H30V26H22V18H16Z" fill="#FFFFFF"/>
+<path d="M22 13L28 10V16H22V13Z" fill="#FFFFFF" fill-opacity="0.8"/>
+<path d="M28 40L22 43V37H28V40Z" fill="#FFFFFF" fill-opacity="0.6"/>
+</g>
+<g fill="url(#textGrad)">
+<path d="M68 18V34H72V26H80V34H84V18H80V26H72V18H68Z"/>
+<path d="M96 18L88 28L96 34H102L92 26L102 18H96Z"/>
+<path d="M116 18H108V34H116V30H112V26H116V22H112V18H116Z"/>
+<path d="M132 18H124V34H132V30H128V26H132V22H128V18H132Z"/>
+<path d="M144 18H136V34H144V30H140V26H144V22H140V18H144Z"/>
+<path d="M160 18L152 34H156L160 26L164 34H168L160 18Z"/>
+</g>
+<rect x="68" y="40" width="110" height="2.4" rx="1.2" fill="url(#logoGrad)" fill-opacity="0.5"/>
+</svg>

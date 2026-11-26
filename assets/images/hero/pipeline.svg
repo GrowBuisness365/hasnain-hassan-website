@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" fill="none">
+  <circle cx="239" cy="181" r="155" stroke="#91acd0" stroke-opacity=".2"/><circle cx="239" cy="181" r="122" stroke="#91acd0" stroke-opacity=".12"/>
+  <path d="M149 170h67m49 0h64M183 222h65m46 0h14M183 118h27m41 0h40" stroke="#74cde2" stroke-width="4" stroke-linecap="round"/>
+  <rect x="80" y="146" width="70" height="48" rx="12" fill="#1a2b45" stroke="#81d3e5" stroke-width="2"/><path d="m106 161 18 9-18 10v-19Z" fill="#ff7775"/><text x="97" y="207" fill="#d6e1f0" font-family="Arial,sans-serif" font-size="9" font-weight="700">BUILD</text>
+  <rect x="216" y="146" width="49" height="48" rx="12" fill="#1a2b45" stroke="#81d3e5" stroke-width="2"/><path d="m230 169 7 7 14-16" stroke="#ff7775" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="329" y="146" width="70" height="48" rx="12" fill="#1a2b45" stroke="#81d3e5" stroke-width="2"/><path d="M349 169h30m-25-8v16m10-16v16m10-16v16" stroke="#cbd9eb" stroke-width="3" stroke-linecap="round"/><text x="343" y="207" fill="#d6e1f0" font-family="Arial,sans-serif" font-size="9" font-weight="700">DEPLOY</text>
+  <rect x="111" y="94" width="72" height="48" rx="12" fill="#1a2b45" stroke="#7393b7"/><circle cx="147" cy="118" r="12" stroke="#ff7775" stroke-width="3"/><path d="M147 109v10l7 4" stroke="#ff7775" stroke-width="2" stroke-linecap="round"/>
+  <rect x="251" y="198" width="60" height="48" rx="12" fill="#1a2b45" stroke="#7393b7"/><path d="M263 229v-10m11 10v-17m11 17v-7" stroke="#72d3e6" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="377" cy="91" r="18" fill="#e84c55" fill-opacity=".16"/><path d="M368 92h18m-9-9v18" stroke="#ff7775" stroke-width="2" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" fill="none">
+  <defs><linearGradient id="a" x1="92" y1="48" x2="372" y2="318" gradientUnits="userSpaceOnUse"><stop stop-color="#20314d"/><stop offset="1" stop-color="#121d30"/></linearGradient><linearGradient id="b" x1="116" y1="90" x2="365" y2="278" gradientUnits="userSpaceOnUse"><stop stop-color="#ff7775"/><stop offset="1" stop-color="#e53d49"/></linearGradient></defs>
+  <circle cx="238" cy="182" r="157" stroke="#8ea9cd" stroke-opacity=".18"/><circle cx="238" cy="182" r="125" stroke="#8ea9cd" stroke-opacity=".12"/>
+  <rect x="71" y="77" width="338" height="214" rx="22" fill="url(#a)" stroke="#8ea9cd" stroke-opacity=".3"/>
+  <rect x="92" y="96" width="296" height="31" rx="9" fill="#0d1728"/><circle cx="110" cy="111" r="4" fill="#ff7775"/><circle cx="125" cy="111" r="4" fill="#76d4e7"/><circle cx="140" cy="111" r="4" fill="#c4d2e6"/>
+  <rect x="101" y="150" width="92" height="83" rx="13" fill="#182842" stroke="#78cde3" stroke-opacity=".5"/><path d="M121 175h52M121 190h37M121 205h44" stroke="#a9c7e7" stroke-width="5" stroke-linecap="round"/><text x="124" y="222" fill="#d4e2f2" font-family="Arial,sans-serif" font-size="9" font-weight="700">API</text>
+  <rect x="194" y="150" width="92" height="83" rx="13" fill="#182842" stroke="#ff7775" stroke-opacity=".65"/><circle cx="240" cy="178" r="12" stroke="#ff7775" stroke-width="4"/><path d="M218 202h44" stroke="#a9c7e7" stroke-width="5" stroke-linecap="round"/><text x="219" y="222" fill="#d4e2f2" font-family="Arial,sans-serif" font-size="9" font-weight="700">SERVICE</text>
+  <rect x="287" y="150" width="92" height="83" rx="13" fill="#182842" stroke="#78cde3" stroke-opacity=".5"/><path d="M309 174h48M309 188h48M309 202h48" stroke="#a9c7e7" stroke-width="5" stroke-linecap="round"/><text x="317" y="222" fill="#d4e2f2" font-family="Arial,sans-serif" font-size="9" font-weight="700">DATA</text>
+  <path d="M193 192h2m91 0h1" stroke="url(#b)" stroke-width="5"/><circle cx="194" cy="192" r="4" fill="#ff7775"/><circle cx="286" cy="192" r="4" fill="#ff7775"/>
+  <rect x="109" y="251" width="132" height="21" rx="10.5" fill="#101a2b"/><circle cx="124" cy="261.5" r="4" fill="#76d4e7"/><path d="M136 262h88" stroke="#7188a7" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="377" cy="68" r="17" fill="#e94954" fill-opacity=".16"/><path d="M371 68h12m-6-6v12" stroke="#ff7775" stroke-width="2" stroke-linecap="round"/>
+</svg>
