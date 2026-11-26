@@ -96,6 +96,13 @@ if (!isset($meta['schema_image'])) {
 </script>
 <!-- End Google Analytics (GA4) -->
 
+<!-- Vercel Web Analytics -->
+<script>
+window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
+</script>
+<script defer src="/_vercel/insights/script.js"></script>
+<!-- End Vercel Web Analytics -->
+
 <!-- Google Search Console Verification -->
 <meta name="google-site-verification" content="L2Ye5enWqkF_Tr6CNRHkQOXp9fYI7Anxj1hyfql4p38" />
 
